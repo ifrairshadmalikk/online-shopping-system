@@ -15,9 +15,9 @@
 - **Form Validation:** JavaScript for client-side validation
 
 ## Contributors
-- **Ifra Irshad Malik **
-- **Emaan Fatima**
-- **Uswa Qandeel**
+- **Ifra Irshad Malik  47133**
+- **Emaan Fatima       48821**
+- **Uswa Qandeel       46416**
 
 ## Conclusion
 "Fashion Fuel" integrates a user-friendly shopping experience with a robust backend system, ensuring secure, efficient, and accurate shopping for fashion items. With contributions from a talented team, the project sets the foundation for an innovative online shopping platform.
