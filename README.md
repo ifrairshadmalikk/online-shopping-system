@@ -21,7 +21,7 @@
 
 ## Conclusion
 "Fashion Fuel" integrates a user-friendly shopping experience with a robust backend system, ensuring secure, efficient, and accurate shopping for fashion items. With contributions from a talented team, the project sets the foundation for an innovative online shopping platform.
-## Sample Snack app
+
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
