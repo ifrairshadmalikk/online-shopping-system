@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1037630213438",
+    "firebase_url": "https://ifrahsproject-default-rtdb.firebaseio.com",
+    "project_id": "ifrahsproject",
+    "storage_bucket": "ifrahsproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037630213438:android:db93983a6cc0adcc39b06f",
+        "android_client_info": {
+          "package_name": "ii.ii.ii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdO3jQ_3ry2gLaUQzlXHE3fiA47XhhBEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
