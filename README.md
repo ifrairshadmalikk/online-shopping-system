@@ -15,8 +15,8 @@
 - **Form Validation:** JavaScript for client-side validation
 
 ## Contributors
-- **Ifra Irshad**
-- **Malik Emaan Fatima**
+- **Ifra Irshad Malik **
+- **Emaan Fatima**
 - **Uswa Qandeel**
 
 ## Conclusion
